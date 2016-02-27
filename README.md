@@ -40,3 +40,5 @@ Thank you CalcProgrammer1 for reverse engineering the USB IO for this keyboard a
 Thank you Chris Lomont for providing a C# Fast Fourier transform (FFT) implementation that is easy to use. See: http://www.lomont.org/
 
 Thank you Corsair for producing a sweet keyboard.
+
+Original idea from brucebag in ##koush on freenode
