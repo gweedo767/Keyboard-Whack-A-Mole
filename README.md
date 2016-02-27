@@ -1,19 +1,20 @@
-Snake Game
+Whack A Mole Game
 =============
 
-A snake game for the Corsair K70 RGB keyboard for Windows, written in C# .Net.
+A whack a mole game for the Corsair K95 and K70 RGB keyboard for Windows, written in C# .Net.
 
-While only tested on the K70 RGB, there's a high possibility of working with others as well.
+While only tested on the K95 RGB, there's a high possibility of working with others as well.
 
-This is based on the following C# project:
+This is based on the following C# projects:
 https://github.com/billism1/KeyboardAudio
+https://github.com/MythicManiac/Keyboard-Minigames
 
 What is it
 ----------
 
-This is a simple snake game built on top of this project: https://github.com/billism1/KeyboardAudio
+This is a simple whack a mole game built on top of this project: https://github.com/billism1/KeyboardAudio and https://github.com/MythicManiac/Keyboard-Minigames
 
-Basically it turns your keyboard into a snake game, see example here: https://www.youtube.com/watch?v=yYet1X18F2E&feature=youtu.be
+Basically it turns your keyboard into a whack a mole game, video example coming soon!
 
 How to use
 ----------
