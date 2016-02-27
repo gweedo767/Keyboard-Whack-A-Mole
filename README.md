@@ -14,7 +14,7 @@ What is it
 
 This is a simple whack a mole game built on top of this project: https://github.com/billism1/KeyboardAudio and https://github.com/MythicManiac/Keyboard-Minigames
 
-Basically it turns your keyboard into a whack a mole game, video example coming soon!
+Basically it turns your keyboard into a whack a mole game, see video here: https://www.youtube.com/watch?v=mX1pq3OQ80s
 
 How to use
 ----------
