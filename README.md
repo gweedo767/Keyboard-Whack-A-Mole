@@ -16,6 +16,8 @@ This is a simple whack a mole game built on top of this project: https://github.
 
 Basically it turns your keyboard into a whack a mole game, see video here: https://www.youtube.com/watch?v=mX1pq3OQ80s
 
+You can get a version you can install here: https://drive.google.com/file/d/0B8Xuq5ZfTn-8ajNmVWVPTnpGMFk/view?usp=sharing
+
 How to use
 ----------
 
